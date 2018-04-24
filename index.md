@@ -1,4 +1,3 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Iterion.be homepage
 ---
